@@ -9,6 +9,6 @@
 	Hello world!_  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>Create New Branch!!!</P>
 </body>
 </html>
